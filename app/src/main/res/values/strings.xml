@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application64</string>
+    <string name="string_01">메인 액티비티</string>
+    <string name="string_02">서브 액티비티 실행</string>
+    <string name="to1">to1</string>
+    <string name="to2">to2</string>
+    <string name="string_03">액티비티 닫기</string>
+    <string name="string_04">서브 액티비티</string>
+    <string name="hint">전달할 메시지를 입력하세요</string>
+</resources>
